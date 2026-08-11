@@ -28,7 +28,7 @@ A **Junior Developer** ***Enthusiast*** 🚀.
 - 🌱 I'm currently exploring data analysis in Python and SQL, and working on Unity projects.
 - 🤔 My interests lie in development and learning how to become a better programmer.
 - 🌱 I love flying my drone — shout out if you want to fly together sometime!
-- 📫 Email me at [marioruizhtn@gmail.com](mailto:marioruizhtn@gmail.com).l.com).
+- 📫 Email me at [marioruizhtn@gmail.com](mailto:marioruizhtn@gmail.com).
 
 
 
@@ -36,20 +36,16 @@ A **Junior Developer** ***Enthusiast*** 🚀.
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c-sharp/c-sharp.png"></code>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DrMonus&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="DrMonus's GitHub Stats">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=DrMonus&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Mario's GitHub Stats"> -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DrMonus&count_private=true&theme=radical" alt="DrMonus" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrMonus&count_private=true&theme=radical" alt="DrMonus" />
+<!-- <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrMonus&count_private=true&theme=radical" alt="DrMonus" /> -->
 
 - 🔭 I'm currently working on myself
 - 🌱 I'm currently learning how to improve my UI and UX work.
 - 💬 Ask me about Pokémon and TCG games — I love playing them.
--->
+
