@@ -24,11 +24,11 @@ A **Junior Developer** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m a Mechatronic Engineer who decided to 
-- 🌱 I’m currently exploring how to do data analysis in Phyton and SQL, and working on Unity 
-- 🤔 My interest lies development, learning how to be a better programmer.
-- 🌱 I love flying my drone, give a shout out if you want to do some
-- 📫 Email me at [marioruizhtn@gmail.com](mailto:marioruizhtn@gmail.com).
+- 👨🏽‍💻 I'm a Mechatronics Engineer who decided to pursue game development.
+- 🌱 I'm currently exploring data analysis in Python and SQL, and working on Unity projects.
+- 🤔 My interests lie in development and learning how to become a better programmer.
+- 🌱 I love flying my drone — shout out if you want to fly together sometime!
+- 📫 Email me at [marioruizhtn@gmail.com](mailto:marioruizhtn@gmail.com).l.com).
 
 
 
@@ -46,16 +46,11 @@ A **Junior Developer** ***Enthusiast*** 🚀.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jas-Script&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jas-Script&count_private=true&theme=radical" alt="Jas-Script" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jas-Script&count_private=true&theme=radical" alt="Jas-Script" />
+<img src="https://github-readme-stats.vercel.app/api?username=DrMonus&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Mario Ruiz's GitHub Stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DrMonus&count_private=true&theme=radical" alt="Mario Ruiz" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrMonus&count_private=true&theme=radical" alt="Mario Ruiz" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I'm currently working on myself
+- 🌱 I'm currently learning how to improve my UI and UX work.
+- 💬 Ask me about Pokémon and TCG games — I love playing them.
 -->
